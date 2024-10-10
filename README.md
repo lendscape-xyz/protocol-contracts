@@ -1,7 +1,3 @@
-Certainly! Here's the `README.md` file in markdown format:
-
----
-
 # LoanPool Smart Contract
 
 The `LoanPool` smart contract is a decentralized lending platform built on Ethereum-compatible blockchains, designed to facilitate loan agreements between borrowers and investors. This contract allows borrowers to request loans with specific terms, and investors to fund these loans, earning interest over time.
